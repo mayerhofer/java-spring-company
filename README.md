@@ -24,3 +24,4 @@ Application to learn Java Spring Framework
    1. Result Build success
 3. 2019.10.14 11:18:00 - Added .gitignore for /target folder
 4. 2019.10.14 11:37:00 - Created EmployeeServiceTest.
+5. 2019.10.14 11:57:00 - Created EmployeeService and Employee (empty). Build success. Git commit and push.
